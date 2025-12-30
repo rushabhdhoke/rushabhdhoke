@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
- 🔭 I’m currently working on <b>Autonomous Exploration & Quadruped Terrains</b><br>
- 🌱 I’m currently learning <b>Advanced RL for Locomotion</b><br>
- 👯 I’m looking to collaborate on <b>ROS2 & Computer Vision Projects</b><br>
+ 🔭 I’m currently working on <b>Autonomous Exploration & Vision based Control</b><br>
+ 🌱 Building simulation workflows in NVidia IsaacSim/Lab using <b>RL for Legged Locomotion</b><br>
+ 👯 Looking to collaborate on <b>Computer Vision and Path planning Projects</b><br>
  📫 Reach me at <b><a href="mailto:rsd@udel.edu">rsd@udel.edu</a></b>
 </p>
 
