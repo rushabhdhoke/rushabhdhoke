@@ -48,18 +48,16 @@
 
 ---
 
-<h2 align="center">🏆 Achievements & Stats</h2>
+<h2 align="center">🏆 Hall of Fame & Achievements</h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rushabhdhoke&theme=radical&no-frame=true&margin-w=15&row=1" alt="rushabhdhoke" />
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/MSc_Robotics-University_of_Delaware-gold?style=for-the-badge&logo=university&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous_Systems-blue?style=for-the-badge&logo=robot&logoColor=white" />
+  
+  <br>
 
-<br>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhdhoke&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-orange?style=for-the-badge&logo=devpost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
