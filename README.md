@@ -48,14 +48,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🏆 Achievements & Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/rushabhdhoke">
-    <img src="https://github-readme-stats.vercel.app/api?username=rushabhdhoke&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/rushabhdhoke">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhdhoke&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rushabhdhoke&theme=radical&no-frame=true&margin-w=15&row=1" alt="rushabhdhoke" />
   </a>
 </div>
 
@@ -64,6 +61,7 @@
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhdhoke&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
+
 ---
 
 <div align="center">
