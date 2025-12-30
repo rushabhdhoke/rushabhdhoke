@@ -48,18 +48,11 @@
 
 ---
 
-<h2 align="center">🏆 Hall of Fame & Achievements</h2>
+<h2 align="center">📊 Activity</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MSc_Robotics-University_of_Delaware-gold?style=for-the-badge&logo=university&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Autonomous_Systems-blue?style=for-the-badge&logo=robot&logoColor=white" />
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/Hackathon-Participant-orange?style=for-the-badge&logo=devpost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhdhoke&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
-
 ---
 
 <div align="center">
