@@ -51,12 +51,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/rushabhdhoke">
-    <img src="https://github-readme-stats.vercel.app/api?username=rushabhdhoke&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/rushabhdhoke">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhdhoke&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-  </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushabhdhoke&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhdhoke&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <br>
@@ -64,7 +63,6 @@
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhdhoke&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
-
 ---
 
 <div align="center">
